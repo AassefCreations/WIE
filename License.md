@@ -2,7 +2,7 @@ Aassef Creations License Agreement
 1. Ownership of Intellectual Property
 All software, programming code, game content, browser-based applications, and related assets created under Aassef Creations are the sole and exclusive property of Aassef Creations. This includes, but is not limited to:
 
-Source code, frameworks, and algorithms.
+Source code, frameworks, and alhttps://github.com/AassefCreations/s/community/license/new?branch=maingorithms.
 Game mechanics, characters, stories, designs, and environments.
 Browser-based tools, applications, and interfaces.
 2. License Grant
